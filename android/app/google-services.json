@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725583395324",
+    "firebase_url": "https://flutter-varios-60121-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-varios-60121",
+    "storage_bucket": "flutter-varios-60121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725583395324:android:03124131af22bf41121a79",
+        "android_client_info": {
+          "package_name": "com.example.pet_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725583395324-23434oag395060pvfrcol46kttg5t77t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeIGXCiKsnG_baqN8V0r98vwnVd7RfwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725583395324-23434oag395060pvfrcol46kttg5t77t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
